@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onontion.github.io/sitemap.html.gz
+Sitemap: https://onontion.github.io/app/sitemap.html.gz
+Sitemap: https://onontion.github.io/assets/sitemap.html.gz
+Sitemap: https://onontion.github.io/css/sitemap.html.gz
+Sitemap: https://onontion.github.io/includes/sitemap.html.gz
+Sitemap: https://onontion.github.io/item/sitemap.html.gz
+Sitemap: https://onontion.github.io/src/sitemap.html.gz
